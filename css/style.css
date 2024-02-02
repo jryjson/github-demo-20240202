@@ -8,3 +8,9 @@ p{
     font-size: 14 px;
     line-height: 130%;
 }
+h2{
+    color: black;
+}
+ul{
+    list-style: none;
+}
